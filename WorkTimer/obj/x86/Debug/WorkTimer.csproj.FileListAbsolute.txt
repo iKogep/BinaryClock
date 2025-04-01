@@ -1,0 +1,28 @@
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\bin\Debug\WorkTimer.exe
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\bin\Debug\WorkTimer.pdb
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.Properties.Resources.resources
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.exe
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.pdb
+e:\мои документы\visual studio 2010\Projects\WorkTimer\WorkTimer\obj\x86\Debug\WorkTimer.MainForm.resources
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.exe
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.pdb
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\bin\Debug\WorkTimer.exe
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\bin\Debug\WorkTimer.pdb
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.MainForm.resources
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.Properties.Resources.resources
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.exe
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.pdb
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\bin\Debug\WorkTimer.exe
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\bin\Debug\WorkTimer.pdb
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.MainForm.resources
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.Properties.Resources.resources
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.csproj.GenerateResource.Cache
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\WorkTimer BW\WorkTimer\obj\x86\Debug\WorkTimer.csprojResolveAssemblyReference.cache
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\BinaryClock\WorkTimer\obj\x86\Debug\WorkTimer.exe
+c:\VirtualBox\SHARED\Мои документы\Visual Studio 2010\Projects\BinaryClock\WorkTimer\obj\x86\Debug\WorkTimer.pdb
